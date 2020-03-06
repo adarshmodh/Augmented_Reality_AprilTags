@@ -4,4 +4,4 @@ with two different approaches: PnP with coplanar assumption, and P3P followed by
 After you recover the camera pose, we will place a virtual camera at that same position to render
 a virtual bird as if it stands on the tag.
 
-![alt text](bird_collineation.png)
+![alt text](bird_collineation.gif)
